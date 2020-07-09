@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Lalo ✌ 🤖👽 👨‍💻
+
+I'm a Software Engineer who wants to know and learn more about open-source. I like to design an build up minimalistic designs. Some technologies I enjoy working with are: ReactJS, VanillaJS, SASS, Bulma.io and recently I've been learning TailwindCSS and React-Native and so on GraphQL. I am very passionate and I really enjoy learning.
+I'm currently taking an intensive certification program at MagmaLabs in React-Native development. 
+
+### Find... me? 👀
+
+- <a href="https://www.twitter.com/biigBaboso">Twitter</a>
+- <a href="https://www.linkedin.com/in/eduardo-ju%C3%A1rez-s%C3%A1nchez/">LinkedIn</a>
 
 <!--
 **Loored/Loored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

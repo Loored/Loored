@@ -4,7 +4,6 @@ I'm a Software Engineer who wants to know and learn more about open-source. I li
 
 ### Find... me? 👀
 <hr>
-- <a href="https://www.twitter.com/biigBaboso">Twitter</a>
 - <a href="https://www.linkedin.com/in/eduardo-ju%C3%A1rez-s%C3%A1nchez/">LinkedIn</a>
 
 <!--

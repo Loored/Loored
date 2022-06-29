@@ -1,6 +1,6 @@
 ### Hi, I'm Lalo ✌ 🤖👽 👨‍💻
 <hr>
-I'm a Software Engineer who wants to know and learn more about open-source. I like to design and build up minimalistic designs. Some technologies I enjoy working with are: ReactJS, VanillaJS, SASS, Bulma.io and recently I've been learning TailwindCSS and React-Native and so on GraphQL. I am very passionate and I really enjoy learning.
+I'm a Frontend Developer who enjoy learning more about open-source. I like to design and build up minimalistic designs. Some technologies I enjoy working with are: ReactJS, VanillaJS, SASS, Bulma.io and recently, TailwindCSS and so React-Native and GraphQL. I am very passionate and I really enjoy learning.
 
 ### Find... me? 👀
 <hr>

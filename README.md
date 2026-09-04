@@ -1,9 +1,9 @@
-### Lalo here :)
+### FED Enthusiast :)
 
 Frontend-focused Software Engineer at Accenture, working primarily with React and TypeScript across enterprise web applications.
 I work at the intersection of frontend engineering, product UI, backend integration, and AI-assisted development.
-
 Currently exploring agentic software engineering through Atellier Studio, a local-first AI orchestration system built around React, TypeScript, Fastify, MCP, durable agent workflows, model routing, knowledge/memory systems, and Codex-driven development.
+
 ---
 
 ## Stack

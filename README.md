@@ -1,21 +1,24 @@
 ### Lalo here :)
 
-FullStack Developer at Accenture. I build clean, fast web apps and try to keep the code simple enough that it explains itself.
+Frontend-focused Software Engineer at Accenture, working primarily with React and TypeScript across enterprise web applications.
+I work at the intersection of frontend engineering, product UI, backend integration, and AI-assisted development.
 
-Big on open source, minimalist design, and shipping things that just work. Always up for chatting about a good side project.
-
+Currently exploring agentic software engineering through Atellier Studio, a local-first AI orchestration system built around React, TypeScript, Fastify, MCP, durable agent workflows, model routing, knowledge/memory systems, and Codex-driven development.
 ---
 
 ## Stack
 
 **Frontend**
-`React` · `TypeScript` · `Next.js` · `TailwindCSS` · `SASS`
+`React` · `TypeScript` · `Next.js` · `TanStack Query` · `TailwindCSS` · `SASS` · `MUI` 
 
-**Backend / APIs**
-`Node.js` · `Express` · `REST` · `GraphQL`
+**Backend / Integration APIs**
+`Node.js` · `Express` · `REST` · `GraphQL` · `Fastify` · `MongoDB`
 
-**Tooling**
-`Git` · `Vite` · `Figma` · `Storybook`
+**Qualtiy & Product**
+`Git` · `Vite` · `Figma` · `Storybook` · `Core Web Vitals` · `Vitest/Jest`
+
+**AI Engineering**
+`Claude Code` · `OpenAI Codex` · `MCP` · `Agentic Workflows` · `LLM Interfaces`
 
 ---
 

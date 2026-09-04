@@ -1,8 +1,8 @@
-### FED Enthusiast :)
+### Frontend Engineer building product UIs & AI-native systems
 
 Frontend-focused Software Engineer at Accenture, working primarily with React and TypeScript across enterprise web applications.
 I work at the intersection of frontend engineering, product UI, backend integration, and AI-assisted development.
-Currently exploring agentic software engineering through Atellier Studio, a local-first AI orchestration system built around React, TypeScript, Fastify, MCP, durable agent workflows, model routing, knowledge/memory systems, and Codex-driven development.
+Currently building [Atellier Studio](https://github.com/Loored/atellier-studio), a local-first AI orchestration system built around React, TypeScript, Fastify, MCP, durable agent workflows, model routing, knowledge/memory systems, and Codex-driven development.
 
 ---
 
@@ -14,7 +14,7 @@ Currently exploring agentic software engineering through Atellier Studio, a loca
 **Backend / Integration APIs**
 `Node.js` · `Express` · `REST` · `GraphQL` · `Fastify` · `MongoDB`
 
-**Qualtiy & Product**
+**Quality & Product**
 `Git` · `Vite` · `Figma` · `Storybook` · `Core Web Vitals` · `Vitest/Jest`
 
 **AI Engineering**
@@ -27,6 +27,13 @@ Currently exploring agentic software engineering through Atellier Studio, a loca
 - Software Engineer at **Accenture** — Colima, México
 - Digging into frontend and backend architecture patterns
 - [LinkedIn](https://www.linkedin.com/in/eduarj/)
+- Exploring agentic systems & harnesses
+
+## Featured Project
+
+### [Atellier Studio](https://github.com/Loored/atellier-studio)
+
+Local-first AI orchestration workspace with durable agent workflows, MCP tooling, multi-model execution, and a React/TypeScript interface.
 
 ---
 <!--
